@@ -7,7 +7,7 @@ subtitle: Researcher · <a href='https://plantsci.missouri.edu/'>Plant Sciences 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Columbia, MO, USA</p>
     <p>pc622@missouri.edu</p>
