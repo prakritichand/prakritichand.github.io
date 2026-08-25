@@ -28,5 +28,5 @@ My research focuses on **arbuscular mycorrhizal (AM) fungi and nutrient exchange
 
 My work brings together **plant–microbe interactions, molecular biology, plant physiology, and greenhouse research**, with a broader goal of understanding how beneficial microbes can help build more **sustainable and resilient agricultural systems**.
 
-I’m especially interested in the science behind the partnerships happening beneath our feet—and how we can put those partnerships to work for better agriculture.
+I’m especially interested in the science behind the partnerships happening beneath our feet and how we can put those partnerships to work for better agriculture.
 
