@@ -24,7 +24,7 @@ latest_posts:
 
 I’m a graduate researcher in **Plant Sciences & Technology at the University of Missouri**, exploring how plants and beneficial microbes work together.
 
-My research focuses on **arbuscular mycorrhizal (AM) fungi and nutrient exchange in *Medicago truncatula***particularly how these fungal partnerships influence nutrient transport, carbon allocation, and biological nitrogen fixation.
+My research focuses on **arbuscular mycorrhizal (AM) fungi and nutrient exchange in *Medicago truncatula*** particularly how these fungal partnerships influence nutrient transport, carbon allocation, and biological nitrogen fixation.
 
 My work brings together **plant–microbe interactions, molecular biology, plant physiology, and greenhouse research**, with a broader goal of understanding how beneficial microbes can help build more **sustainable and resilient agricultural systems**.
 
