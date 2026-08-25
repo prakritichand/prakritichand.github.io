@@ -22,13 +22,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a graduate researcher in Plant Sciences & Technology at the University of Missouri, where I study how
-arbuscular mycorrhizal (AM) fungi shape nutrient exchange in legumes. My thesis investigates the way AM
-fungi mediate nutrient transport to support carbon allocation and biological nitrogen fixation in
-_Medicago truncatula_.
+I’m a graduate researcher in **Plant Sciences & Technology at the University of Missouri**, exploring how plants and beneficial microbes work together.
 
-My background spans plant–microbe interactions, plant stress physiology, plant molecular biology, and
-agricultural science, built through research in both Nepal and the United States — from screening mustard
-genotypes for disease resistance and surveying neglected and underutilized crop species at the National
-Gene Bank in Nepal, to molecular and greenhouse work at Missouri. I am broadly interested in the
-beneficial microbial partnerships that make sustainable agriculture possible.
+My research focuses on **arbuscular mycorrhizal (AM) fungi and nutrient exchange in *Medicago truncatula***—particularly how these fungal partnerships influence nutrient transport, carbon allocation, and biological nitrogen fixation.
+
+My work brings together **plant–microbe interactions, molecular biology, plant physiology, and greenhouse research**, with a broader goal of understanding how beneficial microbes can help build more **sustainable and resilient agricultural systems**.
+
+I’m especially interested in the science behind the partnerships happening beneath our feet—and how we can put those partnerships to work for better agriculture.
+
